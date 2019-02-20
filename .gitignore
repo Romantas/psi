@@ -18,3 +18,9 @@ composer.lock
 
 # for netbeans
 nbproject
+
+#all others
+/mysql
+/nginx
+/php
+/storage
