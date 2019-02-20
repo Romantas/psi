@@ -1,3 +1,8 @@
+/mysql/my.cnf
+/nginx/conf.d/app.conf
+/php/dockerfile
+/php/local.ini
+*/storage/
 /bootstrap/compiled.php
 /vendor
 composer.phar
@@ -19,8 +24,3 @@ composer.lock
 # for netbeans
 nbproject
 
-#all others
-/mysql
-/nginx
-/php
-/storage
