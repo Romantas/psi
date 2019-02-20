@@ -1,8 +1,6 @@
-/mysql/my.cnf
-/nginx/conf.d/app.conf
-/php/dockerfile
-/php/local.ini
-*/storage/
+/mysql
+/nginx
+/php
 /bootstrap/compiled.php
 /vendor
 composer.phar
